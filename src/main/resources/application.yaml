@@ -6,4 +6,4 @@ spring:
       server:
         git:
           uri: https://github.com/VinodhThiagarajan1309/spring-cloud-config-store
-          search-paths: licensingservice,organizationservice,zuulservice,specialroutesservice
+          search-paths: licensingservice,organizationservice,zuulservice,specialroutesservice,authenticationservice
